@@ -1,0 +1,8 @@
+[pt-BR]
+
+AI-News é um prompt que faz o Openclaw varrer fontes de notícias sobre IA e trazer um extrato detalhado de até 10 notícias diariamente. 
+
+O Openclaw faz a leitura das notícias, aplica uma deduplicação, formata e envia no Telegram no formato estipulado.
+
+Para instalar basta colocar o arquivo SOURCES_IA.md no diretório workspace (ou pedir para o Openclaw criar, fazendo paste dos dados) e 
+aplicar o prompt.
